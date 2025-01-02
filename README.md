@@ -47,4 +47,6 @@ https://drive.google.com/file/d/1YheAHsMiDIBmMAXkI61wyDsaAf1VgRan/view?usp=drive
 
 ![Lorran's GitHub stats](https://github-readme-stats.vercel.app/api?username=low-go&show_icons=true&theme=vue-dark)
 
-[![Top Langs](https://github-readme-stats.vue-dark.app/api/top-langs/?username=low-go)](https://github.com/low-go/github-readme-stats)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=low-go&layout=compact&theme=vue-dark)
