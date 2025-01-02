@@ -1,16 +1,21 @@
-## Hi there 👋
+# 🎱 About Me 
 
-<!--
-**Low-go/Low-go** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer and current undergraduate student pursuing. All my coding projects reflect my own journey of growth, as I take on new projects and technologies and expand on myself you can see it here. 
 
-Here are some ideas to get you started:
+📧 Reach me at:
+lorransoftwaredev@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✍️ Currently working on:
+https://github.com/Low-go/AIRFLIGHT_ENTERPRISE
+
+💻 Website:
+https://low-go.github.io/portfolio/
+
+📝 Resume:
+https://drive.google.com/file/d/1YheAHsMiDIBmMAXkI61wyDsaAf1VgRan/view?usp=drive_link
+
+
+🌐
+
+this is a test -->
+![Python Badge](https://custom-icon-badges.demolab.com/badge/Python-blue?style=for-the-badge&logo=python)
