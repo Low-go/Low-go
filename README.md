@@ -15,7 +15,8 @@ https://low-go.github.io/portfolio/
 https://drive.google.com/file/d/1YheAHsMiDIBmMAXkI61wyDsaAf1VgRan/view?usp=drive_link
 
 
-🌐
+## 🌐 Social:<br/>
+https://www.linkedin.com/in/lorran-alves-galdino/
 
 # Tech Stack:
 ![Python Badge](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
