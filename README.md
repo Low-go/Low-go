@@ -16,7 +16,8 @@ https://drive.google.com/file/d/1YheAHsMiDIBmMAXkI61wyDsaAf1VgRan/view?usp=drive
 
 
 ## 🌐 Social:<br/>
-https://www.linkedin.com/in/lorran-alves-galdino/
+**[LinkedIn](https://www.linkedin.com/in/lorran-alves-galdino/)**  
+
 
 # Tech Stack:
 ![Python Badge](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
