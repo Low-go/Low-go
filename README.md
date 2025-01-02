@@ -1,6 +1,12 @@
 # 🎱 About Me 
 
-I'm a software developer and current undergraduate student pursuing. All my coding projects reflect my own journey of growth, as I take on new projects and technologies and expand on myself you can see it here. 
+I’m a bilingual Computer Science student at Brigham Young University, passionate about software development as a craft. My journey includes roles as an IT technician, research assistant, and soon, a Computer Science Tutor and Teaching Assistant.
+
+I view every project as an opportunity to learn, grow, and refine my skills. My GitHub reflects this, I hope :p, each repository shows my own journey and progress.
+
+Outside of coding, I love running, working out, and free diving here in Hawaii’.
+
+"It’s a magical world out there—let’s go exploring."
 
 📧 Reach me at:<br/>
 lorransoftwaredev@gmail.com
