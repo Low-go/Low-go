@@ -1,12 +1,16 @@
 # 🎱 About Me 
 
-I’m a bilingual Computer Science student at Brigham Young University, passionate about software development as a craft. My journey includes roles as an IT technician, research assistant, and soon, a Computer Science Tutor and Teaching Assistant.
-I view every project as an opportunity to learn, grow, and refine my skills. My GitHub reflects this, I hope :p, each repository shows my own journey and progress.
+I’m a bilingual Computer Science student at Brigham Young University, passionate about software development as a craft. 
+
+My journey includes roles as an IT technician, research assistant, and soon, a Computer Science Tutor and Teaching Assistant.
+I view every project as an opportunity to learn, grow, and refine my skills. 
+
+My GitHub reflects this, I hope :p, each repository shows my own journey and progress.
 Outside of coding, I love running, working out, and free diving here in Hawaii’.
 
 "*It’s a magical world out there—let’s go exploring.*"
 
-📧 Reach me at: lorransoftwaredev@gmail.com
+📧 Reach me at: lorransoftwaredev@gmail.com </br>
 ✍️ [Currently working on](https://github.com/Low-go/AIRFLIGHT_ENTERPRISE)  
 💻 [My Portfolio Website](https://low-go.github.io/portfolio/)  
 📝 [My Resume](https://drive.google.com/file/d/1YheAHsMiDIBmMAXkI61wyDsaAf1VgRan/view?usp=drive_link)
