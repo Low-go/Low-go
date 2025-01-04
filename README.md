@@ -46,4 +46,4 @@ Outside of coding, I love running, working out, and free diving here in Hawaiiâ€
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=low-go&layout=compact&theme=vue-dark)
 
-![Lorran's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=low-go&limit=6&theme=vue-dark)
+![Lorran's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=low-go&limit=6&theme=vue-dark&combine_all_yearly_contributions=true)
