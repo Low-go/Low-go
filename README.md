@@ -11,7 +11,7 @@ Outside of coding, I love running, working out, and free diving here in Hawaii�
 "*It’s a magical world out there—let’s go exploring.*"
 
 📧 Reach me at: lorransoftwaredev@gmail.com </br>
-✍️ [Currently working on](https://github.com/Low-go/Plantagotchi)  
+✍️ [Currently working on](https://github.com/FORWARD-Curriculum/Forward-app)  
 💻 [My Portfolio Website](https://low-go.github.io/portfolio/)  
 📝 [My Resume](https://drive.google.com/file/d/1YheAHsMiDIBmMAXkI61wyDsaAf1VgRan/view?usp=drive_link)
 
