@@ -1,8 +1,8 @@
 # 🎱 About Me 
 
-I’m a bilingual Computer Science student at Brigham Young University, passionate about software development as a craft. 
+I’m a bilingual Computer Science graduate from Brigham Young University-Hawaii, passionate about software development as a craft. 
 
-My journey includes roles as an IT technician, research assistant, and soon, a Computer Science Tutor and Teaching Assistant.
+My journey includes roles as an IT technician, research assistant, Computer Science Tutor/Teaching Assistant, and now a graduate/data analyst intern with the International Student Services office at BYU–Hawaii.
 I view every project as an opportunity to learn, grow, and refine my skills. 
 
 My GitHub reflects this, I hope :p, each repository shows my own journey and progress.
@@ -27,9 +27,7 @@ Outside of coding, I love running, working out, and free diving here in Hawaii�
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![React Native Badge](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Postgres Badge](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
