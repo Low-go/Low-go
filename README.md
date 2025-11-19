@@ -13,7 +13,7 @@ Outside of coding, I love running, working out, and free diving here in Hawaii�
 📧 Reach me at: lorransoftwaredev@gmail.com </br>
 ✍️ [Currently working on](https://github.com/FORWARD-Curriculum/Forward-app)  
 💻 [My Portfolio Website](https://low-go.github.io/portfolio/)  
-📝 [My Resume](https://drive.google.com/file/d/1YheAHsMiDIBmMAXkI61wyDsaAf1VgRan/view?usp=drive_link)
+📝 [My Resume](https://drive.google.com/file/d/1ejVVIpQtQtoQU62V8B1itMu698sijmEr/view?usp=drive_link)
 
 
 ## 🌐 Social:<br/>
