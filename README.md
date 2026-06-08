@@ -2,7 +2,7 @@
 
 I’m a bilingual Computer Science graduate from Brigham Young University-Hawaii, passionate about software development as a craft. 
 
-My journey includes roles as an IT technician, research assistant, Computer Science Tutor/Teaching Assistant, and now a graduate/data analyst intern with the International Student Services office at BYU–Hawaii.
+My journey includes roles as an IT technician, research assistant, Computer Science Tutor/Teaching Assistant, graduate/data analyst intern with the International Student Services office at BYU–Hawaii, and currently a fullstack Software Developer at Wintech inc.
 I view every project as an opportunity to learn, grow, and refine my skills. 
 
 My GitHub reflects this, I hope :p, each repository shows my own journey and progress.
