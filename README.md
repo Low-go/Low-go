@@ -6,7 +6,7 @@ My journey includes roles as an IT technician, research assistant, Computer Scie
 I view every project as an opportunity to learn, grow, and refine my skills. 
 
 My GitHub reflects this, I hope :p, each repository shows my own journey and progress.
-Outside of coding, I love running, working out, and free diving here in Hawaii’.
+Outside of coding, I love running, working out.
 
 "*It’s a magical world out there—let’s go exploring.*"
 
