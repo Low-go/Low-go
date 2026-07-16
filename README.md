@@ -11,8 +11,7 @@ Outside of coding, I love running, working out.
 "*It’s a magical world out there—let’s go exploring.*"
 
 📧 Reach me at: lorransoftwaredev@gmail.com </br>
-✍️ [Currently working on](https://github.com/FORWARD-Curriculum/Forward-app)  
-💻 [My Portfolio Website](https://low-go.github.io/portfolio/)  
+✍️ [Currently working on] - Company related private software and Repositories   
 📝 [My Resume](https://drive.google.com/file/d/1ejVVIpQtQtoQU62V8B1itMu698sijmEr/view?usp=drive_link)
 
 
